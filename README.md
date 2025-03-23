@@ -21,7 +21,8 @@ This README provides detailed steps on how to set up and configure the **FRP ser
 4. Choose the instance type (e.g., `t2.micro` for free-tier).
 5. Configure the instance details as per your requirements.
 
-   ![1](https://github.com/user-attachments/assets/43d6cbad-1d26-4c57-a7fd-5e37e29e1547)
+  ![frpp1](https://github.com/user-attachments/assets/9a460ac4-728e-416f-8e6f-343a126b2402)
+
 
 ---
 
@@ -42,7 +43,8 @@ If you need to manually edit the security group after creating the instance:
    - **Source**: Anywhere (`0.0.0.0/0`) or restrict to specific IP addresses. 
 7. Click **Save rules**.
 
-   ![2](https://github.com/user-attachments/assets/1f74a206-6c87-41cf-800d-c55692907e3c)
+  ![frpp2](https://github.com/user-attachments/assets/217a8424-f96f-4c68-b9d8-abbd99524804)
+
 
 To continue the process, you'll need to connect to your EC2 instance via SSH using the terminal. Here’s how you can modify the README to include this step:
 
